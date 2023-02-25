@@ -1,4 +1,4 @@
-Name: Improved Pipe Insertion
-Description: Inserts `%>%` and then starts a new line at the cursor position.
-Binding: insert_pipe_improved
+Name: Underscore Insertion
+Description: Inserts "_" character.
+Binding: insert_underscore
 Interactive: false
